@@ -45,8 +45,6 @@ void sortuj(int tab[], int rozmiar) {
     }
 }
 
-
-
 void zamiana ( int *ptr_x, int *ptr_y) {
 	int tmp;
 	tmp = *ptr_x;
