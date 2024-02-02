@@ -1,9 +1,10 @@
 <div  align="center">
-<h2>🚧 Translation In Progress 🚧</h2>
-<p  style="white-space: pre-line;">This repository was written in Polish by default (I know it's bad practice but such were the requirements). I am currently working on translating it into English.
+<h2>C Lab 🧪</h2>
+<p  style="white-space: pre-line;">
+This repository contains solutions to some academic exercises.
 
-The solutions may not be perfect, e.g. many classes are missing constructors, but the tasks were aimed at testing a specific skill so they were written around that skill.
+The solutions may not be perfect, e.g. many classes are missing constructors. This is because some solutions are based on ready-made prepared templates and some solutions are written around a specific skill.
 
-Don't rely too much on this repo, I just worked on it a bit so I decided to post it here.
+<b>Don't rely</b> too much on this repo, I just worked on it a bit so I decided to post it here.
 </p>
 </div>
